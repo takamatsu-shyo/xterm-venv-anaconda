@@ -1,2 +1,2 @@
 # xterm-venv-anaconda
-Shell script; Start multiple python scripts in their environments.
+Shell script; Start multiple python scripts in their environments (Anaconda or virutalenv).
